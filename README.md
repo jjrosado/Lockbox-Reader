@@ -4,4 +4,4 @@ Introduction: This application is communly used to import payments transaction o
 
 The main version was designed to use a Oracle database, but can be modified for any database.
 
-You can contact me for any more details or questions.
+You can contact me for any more details or questions at jjrosado@gmail.com with the subject "Lockbox Reader (not entirely free)". 
