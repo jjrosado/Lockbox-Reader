@@ -1,6 +1,6 @@
-# Lockbox Reader 
+# Lockbox Reader (not entirely free)
 
-Introduction: This application is communly used to import payments transaction on mass that come from finantials institutions. That file contain the daily transactions and can be process from any computer or server with the App. This include a manual and automatic option with email file validation. 
+Introduction: This application is communly used to import payments transaction on mass that come from financials institutions. The lockbox file contain the daily transactions and this application can be process the file from any computer or server. Also the application include a manual and automatic option with email file validations. 
 
 The main version was designed to use a Oracle database, but can be modified for any database.
 
